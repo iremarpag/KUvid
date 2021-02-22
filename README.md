@@ -112,8 +112,8 @@ Theta_efficiency_boost = is random between 0.05 and 0.15)
 Zeta shields improve the efficiency of the shielded atom by a factor of
 (1 - shielded atom efficiency) * Zeta_efficiency_boost 
 (Zeta_efficiency_boost = 0.2)
-Zeta improves the efficiency iff 
-# shielded atom protons = # shielded atom neutrons
+Zeta improves the efficiency iff # shielded atom protons = # shielded atom neutrons
+
 The shields can be applied to all atom types. 
 A combination of shields may be applied. 
 For example 2 Theta shield and one Lota. In this case the efficiency is calculated by chaining the effects of the shields.
