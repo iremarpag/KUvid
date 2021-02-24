@@ -4,15 +4,11 @@ Please RUN the Game class to see the current stage of the project.
 
 Thank you
 
-## Authors
+### Authors
 •	İrem Arpag
-
 •	Arda Bakır
-
 •	Batuhan Acar
-
 •	Hatice Nur Yıldız
-
 •	Huseyin Berk Kılıc
 
  
