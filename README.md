@@ -1,10 +1,10 @@
-#COMP 302: Software Engineering
+# COMP 302: Software Engineering
 
-Please #RUN the #Game class to see the current stage of the project.
+Please RUN the Game class to see the current stage of the project.
 
 Thank you
 
-#Authors
+# Authors
  İREM ARPAG
  ARDA BAKIR
  BATUHAN ACAR
